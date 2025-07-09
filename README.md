@@ -10,6 +10,20 @@
 
 ---
 
+
+## 🔗 Links to the Project Files
+
+## Interactive Bokeh Visualizations (HTML version):
+View the interactive Bokeh version with pricing and rerouting suggestions
+https://github.com/Himanshu431-coder/Summer-Analytics-2025-x-IIT-Guhawati-Capstone-Project/blob/main/cleaned_Capstone_Project_by_Himanshu_Tapde.html
+
+
+## Google colab Notebook (Code and Analysis):
+View the google colab notebook (Code + Static Outputs)
+https://github.com/Himanshu431-coder/Summer-Analytics-2025-x-IIT-Guhawati-Capstone-Project/blob/main/cleaned_Capstone_Project_by_Himanshu_Tapde.ipynb
+
+
+
 ## 🚀 Project Overview
 Urban parking is scarce and demand‐driven. This project builds a streaming pricing engine for 14 parking lots using Pathway, pandas, and numpy.  
 We implement three pricing models of increasing sophistication:
