@@ -133,3 +133,11 @@ Then, in Google Colab:
 from google.colab import files
 files.download('/tmp/prices.csv')
 
+
+## 📧 Contact
+For questions, suggestions, or collaboration, feel free to reach out:
+
+Email: himanshutapadia312@gmail.com
+
+GitHub: https://github.com/Himanshu431-coder/
+
