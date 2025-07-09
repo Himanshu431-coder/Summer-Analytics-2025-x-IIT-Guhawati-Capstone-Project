@@ -45,7 +45,8 @@ parking-dynamic-pricing/
 
 ## 📐 Architecture Diagram
 
-![Screenshot (52)](https://github.com/user-attachments/assets/3c415ad8-0d39-4631-9769-488e092b5de5)
+![Screenshot (52)](https://github.com/user-attachments/assets/36827c91-407e-4519-82cb-ac9442edfa1e)
+
 
 ## 🔧 Project Workflow
 
