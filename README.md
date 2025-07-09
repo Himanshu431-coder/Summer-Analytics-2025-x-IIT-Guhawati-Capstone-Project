@@ -102,6 +102,19 @@ Blue markers: competitive adjustments
 
 Hover shows reroute suggestions
 
+![Screenshot (54)](https://github.com/user-attachments/assets/1a6ebae7-5cf9-40df-bf0e-c0b0ae73c3d1)
+
+![Screenshot (55)](https://github.com/user-attachments/assets/0ef93a85-ae5f-4e39-a819-9c39837e69fb)
+
+![Screenshot (58)](https://github.com/user-attachments/assets/83371990-9bbb-46ba-9de7-c60939f0080a)
+
+![Screenshot (59)](https://github.com/user-attachments/assets/4bb83968-43b3-47d2-bba4-833e560395ee)
+
+![Screenshot (60)](https://github.com/user-attachments/assets/f72fae80-e2d3-4fbb-afd1-18d7695c9acd)
+
+
+
+
 
 ## 📥 Installation & Execution
 
