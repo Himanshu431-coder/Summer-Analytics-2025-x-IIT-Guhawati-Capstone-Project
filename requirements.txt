@@ -1,0 +1,11 @@
+bokeh==3.7.3
+geopandas==1.0.1
+geopy==2.4.1
+jupyter_bokeh==4.0.5
+numpy==2.3.1
+pandas==2.3.0
+pandas-datareader==0.10.0
+pandas-gbq==0.29.1
+pandas-stubs==2.2.2.240909
+pathway==0.24.1
+sklearn-pandas==2.2.0
